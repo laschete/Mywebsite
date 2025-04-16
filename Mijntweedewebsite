@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lasse's Website</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Lasse's HTML en CSS website!</h1>
+
+    <h2>Over mij</h2>
+    <p>
+      Ik ben een student aan de Hanze in Groningen.<br>
+      Mijn lievelingsvak is PPG Skills Vrije Ruimte.
+    </p>
+
+    <h2>Waarom PPG Skills Vrije Ruimte?</h2>
+    <p>
+      Omdat je zelf kunt kiezen op welk vlak jij jezelf ontwikkelen wilt.<br>
+      Denk aan coderen met HTML en CSS.
+    </p>
+  </body>
+</html>
